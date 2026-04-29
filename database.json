@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "1777490175358",
+      "email": "anshmoderntrading@gmail.com",
+      "password": "$2b$10$WkNkXxfeHSqfG9Rc0fWgGe7KzBUvxCRsqmo6fGKTPqmGrNUpMr/xO",
+      "balance": 10000
+    },
+    {
+      "id": "1777491916033",
+      "email": "samrajyatradevip@gmail.com",
+      "password": "$2b$10$4iWUOdeqIAMLmCr23hxknuzn8CkNmPkX3hmgOVy6bh8Lv05fI0SgS",
+      "balance": 10000
+    }
+  ],
+  "trades": []
+}
